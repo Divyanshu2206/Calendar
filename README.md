@@ -9,8 +9,8 @@ A calendar is a chart or device which displays the date and the day of the week,
 
 
 # Contributors
-Rahul Kumar 
-@rahul13199kumar
+Divyanshu Pandey 
+@divyanshu2206
 
 # Features
 1.Save your event
